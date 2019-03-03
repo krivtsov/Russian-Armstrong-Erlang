@@ -1,4 +1,4 @@
-Thanks for the Russian translation:
+# Thanks for the Russian translation
 
 * [Dennis Parygin (dyp2000)](https://github.com/dyp2000)
 * [Anton Panasenko (dieu)](https://github.com/dieu)
